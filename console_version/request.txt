@@ -1,0 +1,9 @@
+http://apapi.haditabatabaei.ir/tests/get/html --save -i
+http://apapi.haditabatabaei.ir/tests/get/html -i -f --save -M POST
+https://www.google.com/ -i -f --save
+https://lms.aut.ac.ir/nima/portal --proxy ip localhost port 5000 -i
+http://apapi.haditabatabaei.ir/tests/get/html --save -i
+http://apapi.haditabatabaei.ir/tests/get/html -i -f --save -M POST
+https://www.google.com/ -i -f --save
+https://lms.aut.ac.ir/nima/portal --proxy ip localhost port 5000 -i
+https://www.google.com/ -S -i -O googleGet.html

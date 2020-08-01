@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71ff28c5-b1e3-4a98-8fa3-1672d5945f07" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/savedResponses/Name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/savedResponses/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/savedResponses/goggle4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/saveedReqs/My Request15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/saveedReqs/googleGet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App/appTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/ProxyPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/SendOrGetPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request17" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request18" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request20" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request21" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request22" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request24" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request25" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request27" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request33" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request37" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request38" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request39" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request42" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request44" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request47" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request51" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request53" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request55" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request56" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request57" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request62" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request66" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request74" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request76" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request77" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request79" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request82" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request83" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request84" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request85" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request87" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request89" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request90" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request92" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request93" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request94" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/Request99" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists/Get" beforeDir="false" afterPath="$PROJECT_DIR$/Lists/Get" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists/armin" beforeDir="false" afterPath="$PROJECT_DIR$/Lists/armin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists/armin2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists/nameOfLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lists/nameOfLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MidTerm Project Phase 3/App/ReqSender.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MidTerm Project Phase 3/App/ReqSender.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MidTerm Project Phase 3/ApplicationRunner/Request.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MidTerm Project Phase 3/ApplicationRunner/Request.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MidTerm Project Phase 3/ApplicationRunner/RequestResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MidTerm Project Phase 3/ApplicationRunner/RequestResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MidTerm Project Phase 3/ApplicationRunner/RequestSender.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MidTerm Project Phase 3/ApplicationRunner/RequestSender.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MidTerm Project Phase 3/GUI/Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MidTerm Project Phase 3/GUI/Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MidTerm Project Phase 3/GUI/Part2$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MidTerm Project Phase 3/GUI/Part2$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MidTerm Project Phase 3/GUI/Part2$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MidTerm Project Phase 3/GUI/Part2$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MidTerm Project Phase 3/GUI/Part2$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MidTerm Project Phase 3/GUI/Part2$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MidTerm Project Phase 3/GUI/Part2$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MidTerm Project Phase 3/GUI/Part2$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MidTerm Project Phase 3/GUI/Part2$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MidTerm Project Phase 3/GUI/Part2$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MidTerm Project Phase 3/GUI/Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MidTerm Project Phase 3/GUI/Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MidTerm Project Phase 3/GUI/ResponseInformation$SaveAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MidTerm Project Phase 3/GUI/ResponseInformation$SaveAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MidTerm Project Phase 3/GUI/ResponseInformation$SaveRequestAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MidTerm Project Phase 3/GUI/ResponseInformation$SaveRequestAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MidTerm Project Phase 3/GUI/ResponseInformation$SaveWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MidTerm Project Phase 3/GUI/ResponseInformation$SaveWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MidTerm Project Phase 3/GUI/ResponseInformation$Show.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MidTerm Project Phase 3/GUI/ResponseInformation$Show.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MidTerm Project Phase 3/META-INF/MidTerm Project Phase 3.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saveedReqs/nameOfRequests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/saveedReqs/nameOfRequests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App/ReqSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App/ReqSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ApplicationRunner/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ApplicationRunner/Request.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ApplicationRunner/RequestResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ApplicationRunner/RequestResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ApplicationRunner/RequestSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ApplicationRunner/RequestSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUI/Part1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/Part1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUI/Part2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/Part2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUI/ResponseInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/ResponseInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startingSettings.txt" beforeDir="false" afterPath="$PROJECT_DIR$/startingSettings.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/Request1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/Request14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/Request28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/Request4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/Request5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/Request52" beforeDir="false" afterPath="$PROJECT_DIR$/trash/Request52" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/Request73" beforeDir="false" afterPath="$PROJECT_DIR$/trash/Request73" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/Request8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/Request98" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MidTerm Project Phase 3" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cgLLMqmTwocPEaElWXvDwFCpP6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libraries/json-20200518.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.TEST">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="App.appTest" />
+      <module name="MidTerm Project Phase 3" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TEST" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="App.appTest" />
+      <module name="MidTerm Project Phase 3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="App.appTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TEST" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71ff28c5-b1e3-4a98-8fa3-1672d5945f07" name="Default Changelist" comment="" />
+      <created>1590945232933</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590945232933</updated>
+      <workItem from="1590945236546" duration="1250000" />
+      <workItem from="1590946556788" duration="12211000" />
+      <workItem from="1590994393610" duration="38044000" />
+      <workItem from="1591101689902" duration="6268000" />
+      <workItem from="1591168554159" duration="21884000" />
+      <workItem from="1591197888043" duration="161000" />
+      <workItem from="1591200315112" duration="2834000" />
+      <workItem from="1591262832805" duration="25859000" />
+      <workItem from="1591346792299" duration="9626000" />
+      <workItem from="1591536168008" duration="15831000" />
+      <workItem from="1591599307459" duration="7607000" />
+      <workItem from="1595662350385" duration="305000" />
+      <workItem from="1595663900854" duration="1656000" />
+      <workItem from="1595665596364" duration="1279000" />
+      <workItem from="1595668541794" duration="58000" />
+      <workItem from="1595668762775" duration="1742000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="47" key="#Main_(1)" timestamp="1591101817512">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="488" y="47" key="#Main_(1)/0.0.1536.824@0.0.1536.824" timestamp="1591101817512" />
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595664996207">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="65" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.802@0.0.1536.802" timestamp="1591563678756" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1591099821871" />
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1595664996207" />
+    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1591600687600">
+      <screen x="0" y="0" width="1536" height="802" />
+    </state>
+    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.802@0.0.1536.802" timestamp="1591600687600" />
+    <state x="574" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1591357405747" />
+    <state x="498" y="199" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1595664994793">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="498" y="191" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.802@0.0.1536.802" timestamp="1591563675533" />
+    <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1591099820198" />
+    <state x="498" y="199" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1595664994793" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591090799648">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1591090799648" />
+    <state x="499" y="159" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1590946168001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1590946168001" />
+    <state x="488" y="36" key="#test" timestamp="1591563656346">
+      <screen x="0" y="0" width="1536" height="802" />
+    </state>
+    <state x="488" y="36" key="#test/0.0.1536.802@0.0.1536.802" timestamp="1591563656346" />
+    <state x="473" y="154" key="FileChooserDialogImpl" timestamp="1591171595941">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="473" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591171595941" />
+    <state width="1493" height="-12" key="GridCell.Tab.0.bottom" timestamp="1595670506332">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="38" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591361658243" />
+    <state width="1493" height="-12" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1595670506332" />
+    <state width="1493" height="-12" key="GridCell.Tab.0.center" timestamp="1595670506332">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="38" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591361658243" />
+    <state width="1493" height="-12" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1595670506332" />
+    <state width="1493" height="-12" key="GridCell.Tab.0.left" timestamp="1595670506332">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="38" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591361658243" />
+    <state width="1493" height="-12" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1595670506332" />
+    <state width="1493" height="-12" key="GridCell.Tab.0.right" timestamp="1595670506332">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="38" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591361658243" />
+    <state width="1493" height="-12" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1595670506332" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1591171602324">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591171602324" />
+    <state x="477" y="37" key="refactoring.ChangeSignatureDialog" timestamp="1590946153732">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="37" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1590946153732" />
+    <state x="431" y="147" width="672" height="687" key="search.everywhere.popup" timestamp="1595665553702">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="141" width="672" height="660" key="search.everywhere.popup/0.0.1536.802@0.0.1536.802" timestamp="1591553824330" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1591026796511" />
+    <state x="431" y="147" width="672" height="687" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1595665553702" />
+  </component>
+</project>
